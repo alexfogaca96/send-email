@@ -18,9 +18,9 @@ import javax.mail.internet.MimeMultipart;
 
 public class SendAluguelToSantiago
 {
-    private static final String MY_EMAIL = "alex.santana@neolog.com.br";
-    private static final String MY_PASSWORD = "Neolog1234";
-    private static final String SANTIAGO_EMAIL = "santiago.nunes@neolog.com.br";
+    private static final String MY_EMAIL = "<YOUR-EMAIL>";
+    private static final String MY_PASSWORD = "<YOUR-PASSWORD>";
+    private static final String SANTIAGO_EMAIL = "<SANTIAGO'S-EMAIL>";
     private static final String ALUGUEL = "src/main/resources/aluguel.jpg";
 
     public static void main(
